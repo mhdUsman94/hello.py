@@ -1,0 +1,2 @@
+# hello.py
+print("Hello, GitHub! This is a simple Python greeting script.")
